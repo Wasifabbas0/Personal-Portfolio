@@ -87,7 +87,7 @@ return (
                 </Button>
               </a>
 
-              <a href="/cv.pdf" target="_blank" rel="noopener noreferrer">
+              <a href="/Wasif cv.pdf" target="_blank" rel="noopener noreferrer">
                 <AnimatedBorderButton>
                   <Download className="w-5 h-5"/>
                   Download CV
